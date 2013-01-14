@@ -2,7 +2,7 @@
     "name": "rebuy/zend-override",
     "autoload": {
         "psr-0": {
-            "Override" : "src/"
+            "Zend" : "src/"
         } 
     }
 }
